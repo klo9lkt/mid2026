@@ -34,3 +34,6 @@ int main() {
 }
 
 ```
+
+- 사진: <img width="1105" height="279" alt="image" src="https://github.com/user-attachments/assets/07051acf-8e14-4336-ab2c-ce071d908efb" />
+
