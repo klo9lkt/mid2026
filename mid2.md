@@ -106,4 +106,5 @@ int main() {
 ```
 
 
-- 사진: 
+- 사진: <img width="1107" height="880" alt="스크린샷 2026-10-26 154953" src="https://github.com/user-attachments/assets/d590d451-9416-464a-b2bb-5a501d2e3b84" />
+
